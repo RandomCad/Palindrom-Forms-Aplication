@@ -1,5 +1,0 @@
-C:\Users\Public\Documents\C#\Pouplished\PalindromForms\PalindromForms.exe
-C:\Users\Public\Documents\C#\Pouplished\PalindromForms\PalindromForms.dll
-C:\Users\Public\Documents\C#\Pouplished\PalindromForms\PalindromForms.deps.json
-C:\Users\Public\Documents\C#\Pouplished\PalindromForms\PalindromForms.runtimeconfig.json
-C:\Users\Public\Documents\C#\Pouplished\PalindromForms\PalindromForms.pdb
